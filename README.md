@@ -59,7 +59,7 @@ The competition provided an opportunity to apply theoretical engineering knowled
 
 The certificate for securing **1st Prize** in the competition is available in this repository.
 
-**Certificate:** [View 1st Prize Certificate](./Simscape-Robotics-Hackathon-1st-Prize-Certificate.pdf)
+**Certificate:** [View 1st Prize Certificate](./Simscape-Robotics-Hackathon-1st-Prize-Certificate.JPEG.jpeg)
 
 ## 👨‍💻 Author
 
